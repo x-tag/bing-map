@@ -1,7 +1,6 @@
 (function(){
 
   // THIS IS TERRIBLE, FILE A TICKET WITH THE BING MAPS TEAM *ASAP*
-
   document.open();
   document.write('<script src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0"></script>');
   document.close();
